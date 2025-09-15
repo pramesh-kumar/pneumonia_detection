@@ -80,7 +80,6 @@ pneumonia_detection/
 ├── static/                 # Static files
 ├── uploads/                # Uploaded images
 ├── app.py                  # Streamlit web app
-├── download_data.py        # Dataset download script
 ├── requirements.txt        # Dependencies
 └── README.md
 ```
